@@ -3,11 +3,11 @@ module github.com/remm/prolog
 go 1.19
 
 require (
-	github.com/gorilla/mux v1.8.0
+	github.com/gorilla/mux v1.8.1
 	github.com/remm/proglog v0.0.0-20221116200612-61dd4d2208ac
 	github.com/stretchr/testify v1.8.1
-	github.com/tysonmote/gommap v0.0.2
-	google.golang.org/protobuf v1.28.1
+	github.com/tysonmote/gommap v0.0.3
+	google.golang.org/protobuf v1.34.1
 )
 
 require (
